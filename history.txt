@@ -1,0 +1,75 @@
+history
+
+ls -
+
+ls -1
+ls -a
+cat date.c
+cat -n date.c
+cat -E date.c
+mkdir hellooo
+mkdir -v hellloo
+rm -i hellloo
+mkdir -v hh
+rm hh
+exit
+ls
+ls -a
+ls -1
+rm hh
+rm -i hh
+exit
+mkdir -v hh
+rm hh
+exit
+mkdir hh
+mkdir -v hh
+exit
+mkdir hh
+mkdir ho
+rm hh
+rm o
+exit
+echo hi there
+echo "hi there"
+echo -n hi there
+echo "hi there"
+date
+exit
+date
+exit
+date
+date -u
+exit
+echo -n hi there
+echo -E hi \nthere
+exit
+echo -n hithere
+exit
+pwd --help
+exit
+pwd --help
+mkdir hi
+date
+exit
+date
+rm hi
+rm ho
+mgro3n
+
+exit
+echo "hi there"
+echo -n "hi there"
+exit
+cd Desktop
+exit
+cd ..
+cd ..
+pwd
+pwd --help
+echo -n hi there
+echo hi there
+history
+history -n 73
+history
+history -n 2
