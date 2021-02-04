@@ -1,10 +1,12 @@
 # shell
 
 
- Introduction\n
+ Introduction
+ 
       The project aims at writing a shell program in C. The shell has internal commands and
       external commands.
-2. Internal functions implemented\n
+2. Internal functions implemented
+
       a. cd - cd~ and cd..
       To change the directory
       ~ gives home directory
@@ -21,7 +23,8 @@
       -n clears a particular line
       e. exit - exit n
       Exit the shell
-3. External functions implemented\n
+3. External functions implemented
+
       a. ls - ls -a and ls-1
       Print the files in the current directory
       -a prints files starting with . and ..
